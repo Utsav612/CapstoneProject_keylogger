@@ -1,0 +1,65 @@
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28
+Couldn't get Public IP AddressProcessor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System Information: Windows 10.0.22631
+Machine: AMD64
+Hostman: Utsi
+Private IP Address: 192.168.2.28

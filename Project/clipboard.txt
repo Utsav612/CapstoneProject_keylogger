@@ -1,0 +1,4 @@
+Clipboard Data: 
+
+microphone_time = 10
+time_iteration = 15
